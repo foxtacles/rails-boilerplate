@@ -71,3 +71,4 @@ gem 'capistrano-rbenv', github: "capistrano/rbenv"
 # Eventmachine for Ubuntu setup
 gem 'eventmachine', github: "eventmachine/eventmachine"
 
+gem 'ffi'
